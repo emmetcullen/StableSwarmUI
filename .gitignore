@@ -19,3 +19,4 @@ dlbackend/
 __pycache__/
 venv/
 *.pth
+StableSwarmUI/
